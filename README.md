@@ -1,2 +1,2 @@
 # Weather Web
-https://enjoyweather.netlify.app/\
+https://enjoyweather.netlify.app/
